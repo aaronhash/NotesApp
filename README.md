@@ -2,7 +2,7 @@
 
 Made with React Native
 
-Basic note taking app with CRUD functionalities. Tested to work on Android.
+Basic note taking app with create, read and delete functionalities. Tested to work on Android.
 
 To run: 
 
