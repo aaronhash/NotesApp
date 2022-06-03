@@ -1,3 +1,0 @@
-yarn add @eva-design/eva @react-native-async-storage/async-storage @react-navigation/bottom-tabs @react-navigation/native @ui-kitten/components react-native-screens
-
-expo install react-native-svg
