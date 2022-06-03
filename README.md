@@ -7,6 +7,7 @@ Basic note taking app with create, read and delete functionalities. Tested to wo
 To run: 
 
 yarn install
+
 expo start
 
 <img src="https://github.com/aaronhash/NotesApp/blob/main/samples/adding%20notes.jpg" alt="Adding a Note" width="200"/>
