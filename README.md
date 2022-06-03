@@ -9,4 +9,4 @@ To run:
 yarn install
 expo start
 
-![](https://github.com/aaronhash/NotesApp/blob/main/samples/adding%20notes.jpg)
+<img src="https://github.com/aaronhash/NotesApp/blob/main/samples/adding%20notes.jpg" alt="Adding a Note" width="200"/>
